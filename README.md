@@ -28,6 +28,7 @@ In this report, I present a comprehensive analysis of financial data using Power
 
 **Page 2: Region**
 
+![Region Report](https://github.com/rajikudusadewale/Financial-Dashboard/blob/main/Region.jpg)
 **Trends and Insights:**
 
 1. **Actual and Budget by Region**: The clustered bar chart comparing actual and budgeted amounts across different regions provides a clear view of regional performance. We can identify regions that are consistently meeting or exceeding budget targets, as well as those that require attention to align their performance with organizational goals.
