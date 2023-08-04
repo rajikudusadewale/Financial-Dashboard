@@ -5,7 +5,9 @@ Microsoft Power BI
 
 **Introduction:**
 
-In this report, I present a comprehensive analysis of financial data using Power BI Financial Dashboard. This dashboard is designed to provide key stakeholders with real-time insights into the organization's financial performance. By leveraging the power of data visualization, I aim to equip decision-makers with the tools they need to make informed and strategic choices to drive the company's success.
+In this report, I present a comprehensive analysis of financial data using Power BI Financial Dashboard. This dashboard provides key stakeholders with real-time insights into the organization's financial performance. By leveraging the power of data visualization, I aim to equip decision-makers with the tools they need to make informed and strategic choices to drive the company's success.
+
+[For a live demonstration of the dashboard, click here](https://app.powerbi.com/view?r=eyJrIjoiNmE5MGRiMGYtOGFkZC00ZjMzLTlmYmEtMmExNWQ5YjRjZmViIiwidCI6IjM3NzY1MTAyLWQwZjgtNDJmYi05NTQ3LTY1ZTAwMTllZDk1ZiJ9)
 
 **Page 1: Headline**
 
@@ -65,8 +67,8 @@ In conclusion, Financial Dashboard is a powerful financial analysis and decision
 
 4. **Continuous Forecast Monitoring:** Continuously monitor forecast accuracy and refine forecasting models as we gather more data over time. This will allow us to make more precise budgeting decisions as the fiscal year progresses.
 
-**Let's Connect:**
 
-For a live demonstration of the dashboard and further discussions on how this financial analysis can benefit your business. 
 
-#FinancialAnalysis #DataVisualization #DataDrivenDecisions #PowerBI #FinancialDashboard #MyndaTreacy #StrategicDecisionMaking #BusinessIntelligence
+
+
+
