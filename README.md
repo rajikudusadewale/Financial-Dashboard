@@ -5,7 +5,7 @@ Microsoft Power BI
 
 **Introduction:**
 
-In this report, I present a comprehensive analysis of financial data using Power BI Financial Dashboard. This dashboard provides key stakeholders with real-time insights into the organization's financial performance. By leveraging the power of data visualization, I aim to equip decision-makers with the tools they need to make informed and strategic choices to drive the company's success.
+In this report, I present a comprehensive analysis of financial data using Power BI Financial Dashboard. This dashboard gives key stakeholders real-time insights into the organization's financial performance. By leveraging the power of data visualization, I aim to equip decision-makers with the tools they need to make informed and strategic choices to drive the company's success.
 
 [For a live demonstration of the dashboard, click here](https://app.powerbi.com/view?r=eyJrIjoiNmE5MGRiMGYtOGFkZC00ZjMzLTlmYmEtMmExNWQ5YjRjZmViIiwidCI6IjM3NzY1MTAyLWQwZjgtNDJmYi05NTQ3LTY1ZTAwMTllZDk1ZiJ9)
 
@@ -16,7 +16,7 @@ In this report, I present a comprehensive analysis of financial data using Power
 **Trends and Insights:**
 
 1. **Actual YTD vs. FY Budget:**
-   Using an interactive gauge chart, the dashboard starts by presenting a clear view of our year-to-date (YTD) performance compared to the full-year (FY) budget. This visualization lets us quickly assess whether we are ahead or behind our budget targets. Early in the fiscal year, we observed a gap between actual performance and the budget, but through diligent efforts and cost optimization, we successfully narrowed this gap.
+   Using an interactive gauge chart, the dashboard clearly shows our year-to-date (YTD) performance compared to the full-year (FY) budget. This visualization lets us quickly assess whether we are ahead or behind our budget targets. Early in the fiscal year, we observed a gap between actual performance and the budget, but through diligent efforts and cost optimization, we successfully narrowed this gap.
 
 2. **Forecast and Budget by Date - KPIs and Line Chart:**
    Our dashboard features KPIs that provide a snapshot of forecasted and budgeted amounts for each reporting period to ensure we stay on track. This enables us to monitor any deviations from the projected values. Our forecasting accuracy has improved over time, allowing us to make more accurate budgetary projections.
