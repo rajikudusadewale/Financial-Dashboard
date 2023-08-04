@@ -9,6 +9,8 @@ In this report, I present a comprehensive analysis of financial data using Power
 
 **Page 1: Headline**
 
+![Headline Report](https://github.com/rajikudusadewale/Financial-Dashboard/blob/main/Headline.jpg)
+
 **Trends and Insights:**
 
 1. **Actual YTD vs. FY Budget:**
