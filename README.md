@@ -45,6 +45,7 @@ In this report, I present a comprehensive analysis of financial data using Power
 
 
 **Page 3: Decomposition Tree**
+![Decomposition Tree Report](https://github.com/rajikudusadewale/Financial-Dashboard/blob/main/Decomposition%20Tree.jpg)
 
 **Trends and Insights:**
 
